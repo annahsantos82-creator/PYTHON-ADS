@@ -36,4 +36,4 @@ print(
    f"({'é maior de idade' if idade >18 else 'é menor de idade'})"
    f"mede " {altura} ('é alto') if altura >1,70 else 'não é alto'})
 
-
+ana 
